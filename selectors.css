@@ -1,0 +1,40 @@
+body {
+    background-color: rgb(193, 148, 89);
+}
+
+p {
+    font-size: 16px;
+}
+
+.item {
+    background-color: aqua;
+}
+
+#intro {
+    font-weight: bold;
+}
+
+a[href] {
+    background-color: brown;
+}
+
+a:hover {
+
+    background-color: aqua;
+}
+
+ul li:first-child {
+    color: blue;
+}
+
+::placeholder {
+    color: blue;
+}
+
+button:hover {
+    color: blue;
+}
+
+ul::before {
+    content: "this is a list";
+}

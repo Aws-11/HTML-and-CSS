@@ -1,0 +1,15 @@
+.background-section {
+    background-image: url("router.png");
+    border: 2px solid black;
+    background-size: 80% 40%;
+    margin: 0px auto;
+    width: 500px;
+    height: 500px;
+    background-position: center;
+    background-repeat: no-repeat;
+    overflow: scroll;
+    background-attachment: fixed;
+    background-color: bisque;
+
+
+}
